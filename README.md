@@ -1,23 +1,23 @@
-### Hi there, I'm Mohsin Tahir -  👋
+### Hi there, I'm Mohsin Tahir - 👋
 
 
-## I'm full-stack web developer!
+## I'm a Full-Stack Web Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love Games & coding
+- ⚡ Fun fact: I love to Games & coding
 
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/mhsn137" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://www.youtube.com/channel/UCOgiUw6rpD79ZX1GrCzMgBA" />][youtube]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/mohsin-tahir-43b43576/" />][linkedin]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
-### Languages and Tools I am learning:z
+### Languages and Tools I am Learning:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -40,7 +40,7 @@
 
 
 
-
+# A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away - Antonie De-Saint Exupery
 
 ---
 
@@ -51,5 +51,4 @@
 
 [website]: https://github.com/mhsn137
 [youtube]: https://www.youtube.com/channel/UCOgiUw6rpD79ZX1GrCzMgBA
-[instagram]: #
-[linkedin]: https://www.linkedin.com/in/mohsin-tahir-43b43576
+[linkedin]: https://www.linkedin.com/in/mohsin-tahir-43b43576/
